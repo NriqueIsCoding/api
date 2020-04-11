@@ -19,5 +19,5 @@ class ReviewResource extends JsonResource
             'body' => $this->review,
             'star' => $this->star 
         ];
-    }
+    } 
 }
